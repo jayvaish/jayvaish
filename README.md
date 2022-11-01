@@ -91,21 +91,22 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Ajay" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jayvaish&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="ajay" height="139" />
 
 
 </p>
 
-<p><img  height="139" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ajay&show_icons=true&locale=en&layout=compact" alt="Ajay" /></p> 
+<p><img  height="139" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayvaish&show_icons=true&locale=en&layout=compact" alt="ajay" /></p> 
 
-<p><img height="139" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay&" alt="Ajay" /></p> <br>
+<p><img height="139" src="https://github-readme-streak-stats.herokuapp.com/?user=jayvaish&" alt="ajay" /></p> <br>
+
+<br>
+
+
+<a href="https://github.com/jayvaish/github-readme-activity-graph"><img alt="ajay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayvaish&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br>
 
-
-<a href="https://github.com/jayvaish/github-readme-activity-graph"><img alt="Ajay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ajay&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br>
 
 
 
