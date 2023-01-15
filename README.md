@@ -80,8 +80,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ajaysingh-thakur-b05b0022b/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%231E77B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+<img src= https://www.bing.com/th?id=OIP.kPhEz79oc1MCC4KGyDHiFgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2 alt=portfolio style="margin-bottom: 5px;" />
 </a>
+    
+   
 
 
 
