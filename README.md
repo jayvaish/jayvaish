@@ -31,6 +31,9 @@
     <a href="https://github.com/jayvaish?tab=followers">
         <img src="https://img.shields.io/github/followers/hemant069?label=Followers&style=social" alt="followers-count">
     </a>
+     <a href="https://github.com/jayvaish?tab=followers">
+        <img src="https://img.shields.io/github/followers/hemant069?label=Followers&style=social" alt="followers-count">
+    </a>
 </p>
 
 <br>
