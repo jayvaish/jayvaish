@@ -31,9 +31,7 @@
     <a href="https://github.com/jayvaish?tab=followers">
         <img src="https://img.shields.io/github/followers/hemant069?label=Followers&style=social" alt="followers-count">
     </a>
-     <a href="https://github.com/jayvaish?tab=followers">
-        <img src="https://img.shields.io/github/followers/hemant069?label=Followers&style=social" alt="followers-count">
-    </a>
+    
 </p>
 
 <br>
@@ -81,7 +79,9 @@
 <a href="https://www.linkedin.com/in/ajaysingh-thakur-b05b0022b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
+<a href="https://www.linkedin.com/in/ajaysingh-thakur-b05b0022b/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%231E77B5.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 
 
 
